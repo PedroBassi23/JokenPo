@@ -2,8 +2,6 @@
 Será que uma Rede Neural consegue prever sua próxima jogada em um jogo de pedra, papel e tesoura?
 
 
-Jogue aqui
-
 Jogue aqui [here](https://pedrobassi23.github.io/JokenPo/)
 
 
