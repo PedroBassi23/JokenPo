@@ -8,6 +8,8 @@ Jogue aqui [here](https://victorribeiro.com/jokenpo)
 
 ![Me playing it with the same pattern](jokenpo.gif)
 
+![jokenpo (2)](https://github.com/user-attachments/assets/58ddf297-8001-46a5-8a6f-9917fb5dfd13)
+
 
 # Sobre
 Este é um experimento envolvendo o clássico jogo Pedra, Papel e Tesoura, também conhecido como Jo Ken Po. Durante as três primeiras rodadas, o computador escolhe um movimento (pedra, papel ou tesoura) de forma aleatória. A partir da quarta rodada, ele assume que já tem dados suficientes sobre o jogador para tentar prever seu padrão de jogadas.
