@@ -6,8 +6,6 @@ Jogue aqui
 
 Jogue aqui [here](https://victorribeiro.com/jokenpo)
 
-![Me playing it with the same pattern](jokenpo.gif)
-
 ![jokenpo (2)](https://github.com/user-attachments/assets/58ddf297-8001-46a5-8a6f-9917fb5dfd13)
 
 
