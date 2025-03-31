@@ -4,7 +4,7 @@ Será que uma Rede Neural consegue prever sua próxima jogada em um jogo de pedr
 
 Jogue aqui
 
-Play it [here](https://victorribeiro.com/jokenpo)
+Jogue aqui [here](https://victorribeiro.com/jokenpo)
 
 ![Me playing it with the same pattern](jokenpo.gif)
 
