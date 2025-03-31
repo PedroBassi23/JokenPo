@@ -5,7 +5,8 @@ Será que uma Rede Neural consegue prever sua próxima jogada em um jogo de pedr
 Jogue aqui
 
 Jogue aqui [here](https://pedrobassi23.github.io/JokenPo/)
-Jogue aqui [[here](https://victorribeiro.com/jokenpo)]
+
+
 ![jokenpo (2)](https://github.com/user-attachments/assets/58ddf297-8001-46a5-8a6f-9917fb5dfd13)
 
 
